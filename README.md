@@ -1,4 +1,6 @@
-# Handy bash scripts I use on a daily basis.
+# Visco's bash scripts
+
+Handy bash scripts I use on a daily basis.
 
 ## Print that shit
 
